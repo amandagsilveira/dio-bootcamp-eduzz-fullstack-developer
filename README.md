@@ -1,2 +1,2 @@
-# dio-bootcamp-eduzz-fullstack-developer
-Projetos do Bootcamp da DIO
+# Projetos do Bootcamp da DIO
+Repositório criado para os Desafios e Projetos
